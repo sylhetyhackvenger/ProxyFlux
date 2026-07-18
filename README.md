@@ -592,10 +592,12 @@ Made with ❤️ for the Cybersecurity Community
 
 Back to Top
 <div align="center">
+<div align="center">
 
-<img src="https://media.giphy.com/media/rJd5XjHKM16vvvZzHd/giphy.gif"
+<img src="https://media.giphy.com/media/XqVUeEK5Lt3VOGEzJj/giphy.gif"
      width="100%"
-     alt="What Is It Cake - This ProxyFlux">
+     alt="Anime screen animation">
 
+</div>
 </div>
 </div>
