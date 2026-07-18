@@ -555,15 +555,6 @@ ProxyFlux uses AI-inspired algorithms for:
 · Optimization: Automatically optimize testing parameters
 
 ---
-
-🌐 Community & Support
-
-💬 Join the Community
-
-· Discord: Join our server
-· Twitter: @ProxyFlux
-· Reddit: r/proxyflux
-
 📚 Resources
 
 · Wiki
@@ -604,7 +595,7 @@ Back to Top
 
 <img src="https://media.giphy.com/media/rJd5XjHKM16vvvZzHd/giphy.gif"
      width="100%"
-     alt="What Is It Cake - Dark Web">
+     alt="What Is It Cake - This ProxyFlux">
 
 </div>
 </div>
